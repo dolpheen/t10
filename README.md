@@ -18,10 +18,10 @@ Options:
   -h, --help                                                      output usage information
 
 # Usage
-* Unpack .bin firmware to current folder
+Unpack .bin firmware to current folder
 node t10.js system.bin  
 
-* Pack system folder to system-my.bin firmware file
+Pack system folder to system-my.bin firmware file
 node t10.js -p system -o system.bin  
 
 
